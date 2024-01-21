@@ -12,14 +12,6 @@ I'm a highly motivated and passionate 19-year-old studying Computer Science at E
 - JavaScript, React
 - Git, GitHub
 
-## ✨ Projects
-
-Here are some projects I'm proud of:
-
-- [Project 1](Link to Project 1)
-- [Project 2](Link to Project 2)
-- ...
-
 ## 💻 Education
 
 - Currently pursuing a Level 5 Higher National Diploma in Information Technology.
@@ -31,8 +23,7 @@ Excited about the endless possibilities and innovation that coding offers, I am 
 ## 📧 Let's Connect
 
 - Email: pansu2970@gmail.com
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Twitter: [Your Twitter Profile](Link to Twitter)
+- LinkedIn:(https://www.linkedin.com/in/pan-su)
 
 ## 🎉 Fun Facts
 
